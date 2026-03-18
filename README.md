@@ -8,4 +8,3 @@ ________
                ||
 _______________||________________
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashngb&show_icons=true&theme=tokyonight)
