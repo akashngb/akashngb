@@ -6,5 +6,5 @@ ________
    __/   /     ||                              i've won at genai genesis, hack canada, deerhacks, and more.
                ||                              
                ||                              sometimes i go to class (cs @ uoft) and work (s26 intern @ td).
-_______________||________________              if you star my repos, i'll send you pictures of a cat.
+_______________||________________              if you star revenant, i'll send you pictures of a cat.
 ```
