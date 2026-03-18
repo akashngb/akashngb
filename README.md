@@ -1,8 +1,8 @@
 ```
 ________
-    o      |   __   |                          hi! i'm akash. i have a lot of ideas and am learning to manage them.
+    o      |   __   |                          hi! i'm akash.
       \_ O |  |__|  |                          
-   ____/ \ |___WW___|                          i'm super passionate about the things i build.
+   ____/ \ |___WW___|                          i have a lot of ideas and am learning to manage them.
    __/   /     ||                              i've won at genai genesis, hack canada, deerhacks, and more.
                ||                              
                ||                              sometimes i go to class (uoft cs + math + stats).
