@@ -4,7 +4,7 @@ ________
       \_ O |  |__|  |                                 and like hackathons                and coach frisbee
    ____/ \ |___WW___|                             and like batman
    __/   /     ||                              
-               ||                                  i'm special!
+               ||                    ,              i'm special!
                ||                              
 _______________||________________              hire me                 please!
 ```
