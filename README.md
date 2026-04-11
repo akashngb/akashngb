@@ -1,10 +1,10 @@
 ```
 ________
-    o      |   __   |       hi! i'm akash.          i play volleyball                  and frisbee
-      \_ O |  |__|  |                                 and like hackathons                and coach frisbee
-   ____/ \ |___WW___|                             and like batman
-   __/   /     ||                              
-               ||                    ,              i'm special!
-               ||                              
-_______________||________________              
+    o      |   __   |                        
+      \_ O |  |__|  |
+   ____/ \ |___WW___|
+   __/   /     ||                                                 hi
+               ||
+               ||
+_______________||________________
 ```
