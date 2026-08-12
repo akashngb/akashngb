@@ -1,6 +1,6 @@
 ```
 ________
-    o      |   __   |                        
+    o      |   __   |                         
       \_ O |  |__|  |                        
    ____/ \ |___WW___|                               
    __/   /     ||                                gradient descent enjoyer           
