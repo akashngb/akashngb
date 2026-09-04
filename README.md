@@ -3,7 +3,7 @@ ________
     o      |   __   |                         
       \_ O |  |__|  |                        
    ____/ \ |___WW___|                               
-   __/   /     ||                                gradient descent enjoyer           
+   __/   /     ||                                 gradient descent enjoyer           
                ||                               
                ||                            
 _______________||_______________              
